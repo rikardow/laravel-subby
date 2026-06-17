@@ -3,7 +3,7 @@
 namespace Bpuig\Subby\Jobs;
 
 use Bpuig\Subby\Models\PlanSubscription;
-use http\Exception\InvalidArgumentException;
+use InvalidArgumentException;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
